@@ -1,6 +1,11 @@
 # X-WAIFUPHISHER
 
-# INSTALLATION
+# OPEN/RUN ON CLOUD SHELL
+<p align="left">
+  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/lotusSec/x-waifuphisher.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
+</p>
+
+# INSTALLATION ON TERMINAL
 
 
 ## KALI
@@ -38,9 +43,3 @@
 4. **Usage**:
    ```bash
    bash waifuphisher.sh
-
-# OPEN/RUN ON CLOUD SHELL
-<p align="left">
-  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/lotusSec/x-waifuphisher.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
-</p>
-
